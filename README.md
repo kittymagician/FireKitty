@@ -1,11 +1,11 @@
-# FireKitty ![FireKitty](https://github.com/kittymagician/IceKitty/blob/master/img/firekitty.png)
+# FireKitty ![FireKitty](https://github.com/kittymagician/FireKitty/blob/master/img/firekitty.png)
 Digital Artefact Extractor for Discord
 
 Developed as part of my B.Sc. (Hons.) Dissertation entitled "Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients"
 
 In citing the use of this tool in any future publications please use the correct citiation "Bryant, O. (2018). Retrieval of Digital Artefacts from TeamSpeak and Discord: A Forensic Investigation and Analysis of the Malicious Use of Gaming Communication Clients."
 
-This script can be used to automate the extraction of localizsed data from the Discord local client databases into a readable CSV format.
+This script can be used to automate the extraction of localizsed data from the Discord local storage database into a readable CSV format.
 
 
 ## The Findings
