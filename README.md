@@ -34,7 +34,7 @@ To view all the flags available run the -h command.
 This tool is for RESEARCH PURPOSES ONLY! I am not responsible for any damages of misuse of this tool. Please use with caution. 
 
 ## Artwork
-The "IceKitty" branding is copyright of © Kitty Magician 2018.
+The "FireKitty" branding is copyright of © Kitty Magician 2018.
 
 ## Licence
 This tool is licenced under MIT License.
